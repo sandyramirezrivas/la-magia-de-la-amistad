@@ -19,7 +19,7 @@ class SideMenu extends StatelessWidget {
                 const Icon(Icons.bolt, color: AppColors.brandBlue, size: 32),
                 const SizedBox(width: 12),
                 Text(
-                  'MedCentral',
+                  'Pulse',
                   style: Theme.of(context).textTheme.headlineMedium?.copyWith(
                     color: AppColors.brandBlue,
                     fontWeight: FontWeight.bold,

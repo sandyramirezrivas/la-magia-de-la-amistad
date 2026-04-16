@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'MedCentral Portal',
+      title: 'Pulse Portal',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       home: const DashboardScreen(),
